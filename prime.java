@@ -8,7 +8,7 @@ public class PrimeNumbersShort
             {
                 if (i % j == 0) { isPrime = false; break; }
             }
-            if (isPrime) System.out.print(i + " ");
+            if (isPrime) System.out.print(i + "  ");
         }
     }
 }
